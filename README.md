@@ -61,12 +61,12 @@ You can run the inference with default parameters using:
 ```
 > ⚠️ Note: This may result in an error if the required engine file or other defaults are missing or incorrect. Make sure to adjust the command-line parameters or modify the defaults in the source code as needed.
 
-#### 🛠️ View All Available Options
+#### View All Available Options
 To see the full list of configurable parameters, run:
 ```
 ./detection --help
 ```
-##### 📋 Command-Line Options : 
+##### Command-Line Options : 
 ```
 Usage: ./detection [OPTIONS]
 Options:
